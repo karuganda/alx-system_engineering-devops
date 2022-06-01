@@ -1,2 +1,3 @@
 #!/bin/bash
 print "%0.2\n" $NUM
+
